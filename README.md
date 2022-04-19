@@ -1,4 +1,4 @@
-# Git/GitHub
+# Git
 
 - git init　（Gitリポジトリを新規作成する）
 - git add ファイル名　（変更済みのファイルをステージングエリアに追加する）
